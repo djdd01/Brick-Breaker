@@ -7,4 +7,4 @@ For the Bricks i created a table called bricks in which each element is another 
 
 The Ball and the Paddle are identical to those in Pong
 
-Upon collision , the bricks are removed from the list and also from the screen when the list becomes empty, You win or if all lives are lost, You lose.
+Upon collision , the bricks are removed from the list and also from the screen. When the list becomes empty, You win or if all lives are lost, You lose.
